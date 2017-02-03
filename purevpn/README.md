@@ -18,4 +18,6 @@ wget -P /tmp/www/ http://cdn.rawgit.com/ermisus/tomato-vpn-client-dropdown-menu/
 
 2) This time go to **Admin Access** page in the same menu and than select **Custom: /tmp/www (Experts Only!)** option on **Directory with GUI files**.
 
-3) That's it!
+3) Reboot your router.
+
+4) That's it!
